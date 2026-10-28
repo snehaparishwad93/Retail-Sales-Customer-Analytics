@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock
+1,Laptop Pro 14,Electronics,1299.99,125
+2,Laptop Air 13,Electronics,999.00,23
+3,Wireless Mouse,Electronics,24.99,230
+4,Mechanical Keyboard,Electronics,89.99,130
+5,USB-C Hub,Electronics,49.50,114
+6,27-inch Monitor,Electronics,279.99,207
+7,Noise-Cancelling Headphones,Electronics,199.99,14
+8,Bluetooth Speaker,Electronics,69.99,116
+9,Smartphone X,Electronics,899.00,33
+10,Tablet 10,Electronics,449.00,131
+11,Office Chair,Furniture,189.99,106
+12,Standing Desk,Furniture,399.00,116
+13,Desk Lamp,Furniture,34.99,144
+14,Bookshelf,Furniture,129.50,14
+15,Notebook Set,Stationery,12.99,143
+16,Gel Pen Pack,Stationery,8.50,118
+17,Printer Paper,Stationery,6.99,172
+18,Whiteboard,Stationery,54.99,206
+19,Running Shoes,Apparel,84.99,78
+20,Hoodie,Apparel,49.99,185
+21,Cotton T-Shirt,Apparel,19.99,5
+22,Backpack,Accessories,59.99,101
+23,Water Bottle,Accessories,17.50,65
+24,Travel Mug,Accessories,22.99,209
+25,Coffee Maker,Home & Kitchen,79.99,0
+26,Blender,Home & Kitchen,64.99,190
+27,Cookware Set,Home & Kitchen,149.00,55
+28,Yoga Mat,Fitness,29.99,148
+29,Dumbbell Set,Fitness,89.00,18
+30,Fitness Tracker,Fitness,119.99,11
+31,Data Analytics Handbook,Books,39.99,108
+32,Python Programming Guide,Books,44.50,88
+33,SQL Practice Workbook,Books,27.99,179
+34,Board Game,Toys & Games,32.99,16
+35,Wireless Charger,Electronics,29.99,138
+36,Webcam HD,Electronics,74.99,15
+37,External SSD 1TB,Electronics,109.99,239
+38,Portable Projector,Electronics,329.00,228
+39,Throw Blanket,Home & Kitchen,35.00,17
+40,Storage Organizer,Home & Kitchen,21.99,239
+41,Garden Tool Kit,Home & Kitchen,46.00,120
+42,Sunglasses,Accessories,64.99,8
+43,Wallet,Accessories,31.50,73
+44,Rain Jacket,Apparel,79.00,104
+45,Electric Kettle,Home & Kitchen,39.99,46
+46,Air Fryer,Home & Kitchen,119.00,196
+47,Resistance Bands,Fitness,18.99,34
+48,Tennis Racket,Fitness,95.00,196
+49,Children's Puzzle,Toys & Games,14.99,164
+50,Art Supplies Set,Stationery,26.50,250
